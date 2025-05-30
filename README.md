@@ -30,6 +30,13 @@ Key Features: Custom visuals, DAX measures, data transformations, time intellige
 Link: https://app.powerbi.com/reportEmbed?reportId=8d36d65f-c154-4f64-a0f1-39d2dc8bbc14&autoAuth=true&ctid=c07df62e-d52b-4e13-806c-7daaf8489a47
 
 
+#### Project 3: Health Analysis 
+
+Description: Health analysis of some patient in the UK showing pages analyzying demographic, admission, treatment and medical condition, and billings 
+Data Source: CSV, Web scraping and Excel.]  
+Key Features: Custom visuals, DAX measures, data transformations, time intelligence measures, slicers, decompositon tree.
+Link: https://app.powerbi.com/reportEmbed?reportId=9fd618ad-5f62-4979-a52c-1650163fd845&autoAuth=true&ctid=c07df62e-d52b-4e13-806c-7daaf8489a47
+
 
 Note: Additional projects can be added here with similar details.
 
@@ -45,17 +52,12 @@ Note: Additional projects can be added here with similar details.
 Click on each project details to the find .pbix files.
 Open .pbix files in Power BI Desktop to explore reports.
 
+#### Contact
+For questions or feedback, reach out to me at: 
 
-#### Data Sources:
+[LinkedIn](https://www.linkedin.com/in/maryamgbemisola/)
 
-Ensure you have access to the data sources used in each project (e.g., CSV files, database credentials).
-Update data source paths in Power BI Desktop if files are relocated.
+[Email](maryamgbemisolabusinessanalyst@gmail.com)
 
-Contact
-For questions or feedback, reach out to me at: https://www.linkedin.com/in/maryamgbemisola/
-
-Email:maryamgbemisolabusinessanalyst@gmail.com
-GitHub: your-username
-LinkedIn: https://www.linkedin.com/in/maryamgbemisola/
 
 
