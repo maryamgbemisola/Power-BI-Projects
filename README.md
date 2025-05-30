@@ -8,12 +8,11 @@ This repository contains a collection of my personal Power BI projects, showcasi
 
 * Projects
 * Technologies Use
-* Usage
 * Contact
 
 ### Below is a list of the Power BI projects included in this repository:
 
-Project 1: Sales Analysis  
+#### Project 1: Sales Analysis  
 
 Description: Sales performance dashboard analyzing quarterly revenue trends across regions; contains pages for periodic report, location report and advanced analysis.
   
@@ -23,12 +22,12 @@ Key Features: Interactive slicers, drill-down charts, KPI cards,charts.
 
 Link : https://app.powerbi.com/reportEmbed?reportId=649a4b72-cb3e-4e34-8f12-dc93865d60f9&autoAuth=true&ctid=c07df62e-d52b-4e13-806c-7daaf8489a47
 
-Project 2: [Project Name]  
+#### Project 2: Pharmaceutical Sales Analysis 
 
-Description: [Brief description of the project.]  
-Data Source: [e.g., CSV, Web scraping, etc.]  
-Key Features: [e.g., Custom visuals, DAX measures, data transformations.]  
-Folder: [path/to/project2]
+Description: Pharmaceutical Sales performance dashboard analyzing sales and marketing performance across teams, products, locations, channels, city and sales representatives.
+Data Source: CSV, Web scraping and Excel.]  
+Key Features: Custom visuals, DAX measures, data transformations, time intelligence measures, slicers,guage charts.
+Link: https://app.powerbi.com/reportEmbed?reportId=8d36d65f-c154-4f64-a0f1-39d2dc8bbc14&autoAuth=true&ctid=c07df62e-d52b-4e13-806c-7daaf8489a47
 
 
 
@@ -43,7 +42,7 @@ Note: Additional projects can be added here with similar details.
 
 
 #### Access Project Files:
-Navigate to the project folders to find .pbix files.
+Click on each project details to the find .pbix files.
 Open .pbix files in Power BI Desktop to explore reports.
 
 
@@ -52,18 +51,8 @@ Open .pbix files in Power BI Desktop to explore reports.
 Ensure you have access to the data sources used in each project (e.g., CSV files, database credentials).
 Update data source paths in Power BI Desktop if files are relocated.
 
-
-
-Usage
-
-Open a .pbix file in Power BI Desktop to interact with the dashboards and reports.
-Use slicers, filters, and drill-down features to explore data interactively.
-To refresh data, ensure the data sources are accessible and click the "Refresh" button in Power BI Desktop.
-Export reports to PDF or PowerPoint for sharing, or publish to Power BI Service for online access (requires a Power BI account).
-
-
 Contact
-For questions or feedback, reach out to me at:
+For questions or feedback, reach out to me at: https://www.linkedin.com/in/maryamgbemisola/
 
 Email:maryamgbemisolabusinessanalyst@gmail.com
 GitHub: your-username
